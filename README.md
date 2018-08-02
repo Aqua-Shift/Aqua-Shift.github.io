@@ -1,4 +1,4 @@
-# AquaSHIFT
+# AquaSHIFT - World Challenge Finland 2018
 
 ## Hello Everyone!
 
@@ -10,12 +10,13 @@ It's an Analysis tool for smart transfer of surplus flood water to nearby drough
 
     * [Global Drought Hazard Frequency](http://sedac.ciesin.columbia.edu/data/set/ndh-drought-hazard-frequency-distribution)
     * [Global Flood Hazard Frequency](http://sedac.ciesin.columbia.edu/data/set/ndh-flood-hazard-frequency-distribution)  
-
+* [Open Street Map](https://www.openstreetmap.org/)
+* []
 ## Technology Used
 
-* [Javscript]()
+* [Flask](http://flask.pocoo.org/)
+* [Numpy](http://www.numpy.org/)
+* [Open Layers](https://openlayers.org/)
+* [Open Street Map](https://www.openstreetmap.org/)
+* [Scikit-Learn](http://scikit-learn.org/)
 
-
-
-
-## 
