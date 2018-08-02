@@ -6,7 +6,7 @@ AquaSHIFT is an Analysis tool for smart transfer of surplus flood water to nearb
 
 ## Data Sources
 
-* [SEDAC](http://sedac.ciesin.columbia.edu/) - Socioeconomic Data and Applications Center
+* [SEDAC](http://sedac.ciesin.columbia.edu/) - Socioeconomic Data and Applications Center by NASA
 
     * [Global Drought Hazard Frequency](http://sedac.ciesin.columbia.edu/data/set/ndh-drought-hazard-frequency-distribution)
     * [Global Flood Hazard Frequency](http://sedac.ciesin.columbia.edu/data/set/ndh-flood-hazard-frequency-distribution)  
