@@ -1771,7 +1771,15 @@ body {
   background-image: url("../../../assets/images/grass.jpg");
   height: 100px;
 }
+.cid-qTkA127IKi {
+  background-image: url("../../../assets/images/bg-bgg.jpg");
+  height: 120px;
+}
 
+.cid-qTkA127IK7 {
+  background-image: url("../../../assets/images/bg-bl.jpg");
+  height: 120px;
+}
 .overlay-bg {
   background-color: rgba(0, 0, 0, 0.7);
   width: 100%;
