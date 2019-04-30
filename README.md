@@ -1,4 +1,4 @@
-# AquaSHIFT - Ensignia 2.0
+# AquaSHIFT - World Challenge Finland 2018
 
 ## Hello Everyone!
 
